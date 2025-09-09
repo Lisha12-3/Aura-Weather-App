@@ -1,0 +1,5 @@
+{
+  "name": "Aura Weather",
+  "description": "A visually stunning, real-time weather forecasting application. It provides current weather conditions and a 5-day forecast for any city in the world with an engaging and modern user interface.",
+  "requestFramePermissions": []
+}
